@@ -82,4 +82,9 @@ I'm Mateusz, Typescript Fullstack Developer, currently working focusing on Backe
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stepaniukm)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepaniukm)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ![](https://komarev.com/ghpvc/?username=stepaniukm)
