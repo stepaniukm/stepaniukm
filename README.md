@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img align="left" width="240" height="240" src="https://user-images.githubusercontent.com/28492390/193409792-2fb4c573-832f-4da2-91f8-fc19cab385b6.PNG" alt="Memoji Avatar"/>
+<img align="right" width="240" height="240" src="https://user-images.githubusercontent.com/28492390/193409792-2fb4c573-832f-4da2-91f8-fc19cab385b6.PNG" alt="Memoji Avatar"/>
 
 I'm Mateusz, Typescript Fullstack Developer, currently working focusing on Backend and Devops stuff and working at [@appunite](https://appunite.com/) as Node.js Developer. Member of the [@frontlive](https://github.com/Frontlive) team.
 
