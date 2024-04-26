@@ -2,7 +2,7 @@
 
 <img align="right" width="240" height="240" src="https://user-images.githubusercontent.com/28492390/193411289-7074329c-e579-4f6b-abe5-2c2c141e3a1d.PNG" alt="Memoji Avatar"/>
 
-I'm Mateusz, Typescript Fullstack Developer, currently working focusing on Backend and Devops stuff and working at [@appunite](https://appunite.com/) as Node.js Developer. Member of the [@frontlive](https://github.com/Frontlive) team.
+I'm Mateusz, Typescript Fullstack Developer, currently working focusing on Backend and Devops stuff and working as Node.js Developer. Member of the [@frontlive](https://github.com/Frontlive) team.
 
 ## You can find me here:
 
