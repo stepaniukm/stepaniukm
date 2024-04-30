@@ -4,9 +4,11 @@
 
 I'm Mateusz, Typescript Fullstack Developer, currently working focusing on Backend and Devops stuff and working as Node.js Developer. Member of the [@frontlive](https://github.com/Frontlive) team.
 
+Currently in my free time working on open-source recruitment [platform](https://github.com/recruitex/recruitex).
+
 ## You can find me here:
 
-### Personal: <a href="https://www.linkedin.com/in/mateusz-stepaniuk-46653b188">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+### Personal: <a href="https://www.linkedin.com/in/mateusz-stepaniuk-46653b188">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://twitch.tv/stepeusz">![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)</a> (PL/EN)
 
 ### Frontlive: <a href="https://discord.gg/TYtscR7FEJ">![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a> <a href="https://twitch.tv/frontlivepl">![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)</a> (PL)
 
