@@ -4,7 +4,7 @@
 
 I'm Mateusz, Typescript Fullstack Developer, currently working focusing on soft skills and working as Node.js Developer. Code is only one way to solve problems. Personally I'm interested a lot in functional programming and DDD. Member of the [@frontlive](https://github.com/Frontlive) team.
 
-Currently in my free time working on open-source recruitment [platform](https://github.com/recruitex/recruitex).
+Currently in my free time working with friends on open-source recruitment [platform](https://github.com/recruitex/recruitex).
 
 ## You can find me here:
 
